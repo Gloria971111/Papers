@@ -1,2 +1,2 @@
 # Salient-Region-Detection
-from scratch
+Learning Salient Region Detection from scratch!
