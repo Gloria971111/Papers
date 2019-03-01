@@ -13,7 +13,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project3", "Project3\Projec
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project4", "Project4\Project4.vcxproj", "{EB1E284B-A31D-4FF1-954C-19C373AFE3E5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapter2", "chapter2", "{39F88878-DDB3-4A45-B791-1A78C285FEAF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapter2", "chapter2", "{F5AE61AE-22FE-4EC9-AA46-30D77EDABA47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
